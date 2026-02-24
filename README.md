@@ -34,6 +34,10 @@ State: Delaware
 In the same Chrome browser, open this link and choose **Individual** to do KYC:  
 [https://platform.openai.com/settings/organization/general](https://platform.openai.com/settings/organization/general)
 
+The screenshot below means KYC is done. Under `Verifications`, the `Individual` row shows `Approved`.
+
+![KYC is done](./ChatGPT.png)
+
 ## Step 5: Remove the saved credit card
 
 No matter if KYC succeeds or fails, go to **Payment methods** on the Billing page and remove the saved credit card.
