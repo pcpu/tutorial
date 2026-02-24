@@ -2,10 +2,6 @@
 
 This guide assumes you are using the Chrome web browser on a mobile phone.
 
-```html
-<video src="./src/ChatGPT.mp4" controls style="max-width:100%; height:auto;"></video>
-```
-
 ## Step 1: Create an account
 
 First, open Chrome and go to [https://chatgpt.com/](https://chatgpt.com/) to create a ChatGPT account.
