@@ -2,6 +2,10 @@
 
 This guide assumes you are using the Chrome web browser on a mobile phone.
 
+```html
+<video src="./src/ChatGPT.mp4" controls style="max-width:100%; height:auto;"></video>
+```
+
 ## Step 1: Create an account
 
 First, open Chrome and go to [https://chatgpt.com/](https://chatgpt.com/) to create a ChatGPT account.
@@ -34,13 +38,13 @@ State: New Hampshire
 In the same Chrome browser, open this link and choose **Individual** to do KYC:  
 [https://platform.openai.com/settings/organization/general](https://platform.openai.com/settings/organization/general)
 
-![tutorial_1](./img_1.png)
+![tutorial_1](./src/img_1.png)
 
-![tutorial_2](./img_2.png)
+![tutorial_2](./src/img_2.png)
 
 The screenshot below means KYC is done. Under `Verifications`, the `Individual` row shows `Approved`.
 
-![KYC is done](./ChatGPT.png)
+![KYC is done](./src/ChatGPT.png)
 
 ## Step 5: Remove the saved credit card
 
