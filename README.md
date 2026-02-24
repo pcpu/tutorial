@@ -34,6 +34,10 @@ State: New Hampshire
 In the same Chrome browser, open this link and choose **Individual** to do KYC:  
 [https://platform.openai.com/settings/organization/general](https://platform.openai.com/settings/organization/general)
 
+![tutorial_1](./img_1.png)
+
+![tutorial_2](./img_2.png)
+
 The screenshot below means KYC is done. Under `Verifications`, the `Individual` row shows `Approved`.
 
 ![KYC is done](./ChatGPT.png)
