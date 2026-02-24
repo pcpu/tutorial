@@ -23,10 +23,10 @@ Example address:
 ```text
 Name on card: Hello World
 Country: United States of America
-Address line 1: 4407 Argonne Street
-City: Philadelphia
-Postal Code: 19108
-State: Delaware
+Address line 1: 4445 Milford Street
+City: Manchester
+Postal Code: 03103
+State: New Hampshire
 ```
 
 ## Step 4: Do KYC and choose Individual
